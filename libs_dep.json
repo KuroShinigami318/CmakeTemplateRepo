@@ -1,0 +1,10 @@
+{
+"_comments": "name: folder name; prj_name: git/cmake project name; tag: git tag/branch",
+"libs": [
+ {
+    "name": "",
+    "prj_name": "",
+    "tag": ""
+ }
+]
+}
